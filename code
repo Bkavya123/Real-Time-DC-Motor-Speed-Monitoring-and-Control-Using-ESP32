@@ -4,7 +4,7 @@ from machine import Pin, PWM
 from time import sleep_ms
 
 # -------- WiFi --------
-ssid = "kritish"
+ssid = "kavya"
 password = "pass"
 
 wlan = network.WLAN(network.STA_IF)
